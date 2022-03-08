@@ -1,5 +1,5 @@
 # Side bar
-Simple stylish side bar for your projects styled with CSS
+Stylish, Responsive side bar for projects; styled with CSS
 
 
 
